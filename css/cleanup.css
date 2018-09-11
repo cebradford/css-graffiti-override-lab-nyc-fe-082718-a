@@ -22,7 +22,7 @@ div#wall div.parent div.slick#tag-5 {
 
 /*not working */
 
-div#wall div.parent div + div#tag-6 {
+div#wall div.parent div#tag-6 {
   display: none;
 }
 
